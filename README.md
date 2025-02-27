@@ -29,3 +29,7 @@ yarn add ts-node
 
 `yarn add express`
 `yarn add @types/express`
+
+### Other libraries
+
+`yarn add dotenv`
