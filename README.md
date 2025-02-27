@@ -33,3 +33,9 @@ yarn add ts-node
 ### Other libraries
 
 `yarn add dotenv`
+
+### Other setup
+
+#### VSCode
+
+See [VSCode Editor SDKs](https://yarnpkg.com/getting-started/editor-sdks#vscode). This will help the editor have better feedback for your setup.
