@@ -13,3 +13,14 @@ yarn init -2
 ```
 
 This will setup to use the latest Yarn, v4.6.0 as of this writing.
+
+### Install Typescript
+
+We'll be using Typescript as the main language in this project.
+
+```
+yarn add @types/node
+yarn add typescript
+yarn tsc --init
+yarn add ts-node
+```
