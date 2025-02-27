@@ -25,7 +25,7 @@ yarn tsc --init
 yarn add ts-node
 ```
 
-### Install Express
+### Install Express (The E in MERN)
 
 `yarn add express`
 `yarn add @types/express`
