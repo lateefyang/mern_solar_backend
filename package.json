@@ -17,7 +17,7 @@
   "scripts": {
     "example": "ts-node src/example.ts",
     "start": "ts-node src/index.ts",
-    "www": "ts-node src/bin/www"
+    "www": "ts-node src/bin/www.ts"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1",
